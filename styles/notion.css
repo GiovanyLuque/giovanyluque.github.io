@@ -23,6 +23,8 @@
 
 .notion-text {
   padding: 0.5em 2px;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 .notion-asset-caption {
